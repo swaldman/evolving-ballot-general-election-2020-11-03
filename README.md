@@ -15,7 +15,9 @@ In order to maximize commonality with others (ballots can differ from one city b
 "merge conflicts" -- I've made separate files for each race on my ballot.
 
 **_Please go to the [main repository page and click on individual ballot items](https://github.com/swaldman/evolving-ballot-general-election-2020-11-03)
-for my tentative views. Educate me with Pull Requests or Issues, and/or fork your own annotated ballot repo!_**
+for my tentative views._**
+
+**_Educate me with Pull Requests or Issues, and/or fork your own annotated ballot repo!_**
 
 This repo is incomplete.
 Anything in this repo can change and "evolve" until I've actually cast my ballot. Once I have, I'll note that in this `README`.
