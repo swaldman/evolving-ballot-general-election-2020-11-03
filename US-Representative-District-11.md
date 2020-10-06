@@ -10,4 +10,6 @@ electoral system (which we should change) that social democracy can succeed
 in the United States is by discipline Democratic incumbents who betray social
 democratic ideals whenever the cost of doing so is tolerable. Buttar is a
 Democrat, a "progressive", and at least in his rhetoric tilts towards social
-democracy. This is an easy call for me.
+democracy. Fairly or not, in my view Pelosi, while socially liberal, is philosophically
+a devoted neoliberal and politically beholden to plutocratic interests.
+This is an easy call for me.

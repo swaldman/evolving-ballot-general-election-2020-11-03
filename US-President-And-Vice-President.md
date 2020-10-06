@@ -28,6 +28,7 @@ than the other one (although they are both, at bottom, implacably hostile to it,
 Biden / Harris is my unambiguous Presidential choice.
 
 _**Note:** I don't consider less prominent candidates because under our crappy
-plurality voting system, voting for minor party candidates splits to coalition closest
-to my own values and interests. I want desperately to change our voting system,
-But that is not on the ballot._
+plurality voting system, voting for minor party candidates splits the coalition closest
+to my own values and interests._
+
+_I want desperately to change our voting system. But that is not on this ballot._

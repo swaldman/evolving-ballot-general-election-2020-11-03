@@ -16,5 +16,10 @@ ballots unless I wish to vote or comment on them.
 This repo is incomplete.
 Anything in this repo can change and "evolve" until I've actually cast my ballot. (Once I have, I'll note that in this README.)
 
-My ballot is San Francisco, Type 23.
+My ballot is [San Francisco, Type 23](https://sites.omniballot.us/06075/app/sb/sample-ballot).
+
+---
+
+In this repo I reproduce ballot questions, **_but often incompletely_** and no doubt **_sometimes mistakenly_**.
+Please read your own ballot carefully! **_I do not warrant I haven't messed anything up._**
 
