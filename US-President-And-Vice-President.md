@@ -2,6 +2,10 @@
 
 - [x] Joseph R. Biden / Kamala D. Harris
 - [ ] Donald J. Trump / Michael R. Pence
+- [ ] Gloria La Riva / Sunil Freeman
+- [ ] Roque ("Rocky") De La Fuenta Guerra / Kanye Omari West
+- [ ] Howie Hawkins / Angela Nicole Walker
+- [ ] Jo Jorgenson / Jeremy "Spike" Cohen
 
 ---
 
