@@ -3,7 +3,9 @@
 - [x] Joseph R. Biden / Kamala D. Harris
 - [ ] Donald J. Trump / Michael R. Pence
 
-This was an easy one.
+---
+
+This is an easy one.
 
 While there's lots of things about the `#Resistance` I find overwrought,
 hypocritical, and disagreeable, I think that Donald Trump has proved to be
@@ -26,6 +28,8 @@ this year. But both because his administration would be basically more rational
 and competent, and because his political coalition is a bit more open to it
 than the other one (although they are both, at bottom, implacably hostile to it, alas),
 Biden / Harris is my unambiguous Presidential choice.
+
+---
 
 _**Note:** I don't consider less prominent candidates because under our crappy
 plurality voting system, voting for minor party candidates splits the coalition closest

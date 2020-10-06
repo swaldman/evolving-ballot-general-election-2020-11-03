@@ -16,7 +16,7 @@ ballots unless I wish to vote or comment on them.
 This repo is incomplete.
 Anything in this repo can change and "evolve" until I've actually cast my ballot. (Once I have, I'll note that in this README.)
 
-My ballot is [San Francisco, Type 23](https://sites.omniballot.us/06075/app/sb/sample-ballot).
+My ballot is [San Francisco, Type 23](ballot-source/SF-Type-23-2020-11-03.pdf).
 
 ---
 

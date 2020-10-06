@@ -3,6 +3,8 @@
 - [ ] John P. McDonnell
 - [x] Phil Ting
 
+---
+
 In this election -- unusually -- I think it in the national interest that
 the Trump-inflected Republican Party be overwhelmingly and unambiguously
 reputiated, so I am refraining from giving serious consideration to people

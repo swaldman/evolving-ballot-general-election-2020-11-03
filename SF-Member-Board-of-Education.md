@@ -13,4 +13,6 @@ _Choose up to four_
 - [ ] Paul Kangas
 - [ ] Nick Rothman
 
+---
+
 I am not yet informed or decided.

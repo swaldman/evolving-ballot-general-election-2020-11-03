@@ -14,4 +14,6 @@ _Choose up to four_
 - [ ] Alan Wong
 - [ ] Shanell Williams
 
+---
+
 I am not yet informed or decided.

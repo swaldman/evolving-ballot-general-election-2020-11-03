@@ -3,6 +3,7 @@
 - [ ] Nancy Pelosi
 - [x] Shahid Buttar
 
+---
 
 Nancy Pelosi is a colorful and divisive figure, but she actively opposes any
 serious social democratic economic program. The only way, under the current
