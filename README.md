@@ -26,7 +26,7 @@ My ballot is [San Francisco, Type 23](ballot-source/SF-Type-23-2020-11-03.pdf).
 
 **NO WARRANTY**
 
-In this repo I reproduce ballot questions, **_but often incompletely_** and no doubt **_sometimes mistakenly_**.
+In this repo I reproduce ballot questions, **_but no doubt sometimes incompletely or mistakenly_**.
 
 Please read your own ballot carefully!
 
