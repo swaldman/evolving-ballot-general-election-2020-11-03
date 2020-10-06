@@ -1,7 +1,7 @@
 # US President and Vice President
 
-[x] Joseph R. Biden / Kamala D. Harris
-[ ] Donald J. Trump / Michael R. Pence
+- [x] Joseph R. Biden / Kamala D. Harris
+- [ ] Donald J. Trump / Michael R. Pence
 
 This was an easy one.
 
@@ -15,6 +15,11 @@ Joe Biden would not be my first, second, or third choice from even the narrow un
 of primary candidates. But I do think he would not set the country against itself, and he
 would build an administrtion with some basic competences and values that the current
 one lacks.
+
+I do agree with the "normcore" `#Resistance` that Trump and the coalition
+he represents and has reshaped is a more serious threat to prospects for open democracy
+and universal political enfranchisement than his rival (though none of the current
+options are very good or without serious risks on these dimensions).
 
 Social democracy -- my political priority -- is not on the Presidential ballot
 this year. But both because his administration would be basically more rational

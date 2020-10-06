@@ -1,7 +1,7 @@
 # US Representative, District 11
 
-[ ] Nancy Pelosi
-[x] Shahid Buttar
+- [ ] Nancy Pelosi
+- [x] Shahid Buttar
 
 
 Nancy Pelosi is a colorful and divisive figure, but she actively opposes any
