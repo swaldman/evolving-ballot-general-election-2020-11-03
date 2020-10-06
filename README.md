@@ -7,15 +7,15 @@ _This exercise is inspired by Devon Zuegel, who described doing something simila
 The idea here is to have people post ballots containing anticipated votes and justifications as a way of pooling
 information and expertise in forming voting decisions.
 
-You are encouraged to fork this repository, offer pull requests and issues to help me
+You are encouraged to fork this repository, offer Pull Requests and Issues to help me
 fill-in races (especially those about which I'm uncertain), and modify your own forks to match your ballot and
 reflect your views.
 
 In order to maximize commonality with others (ballots can differ from one city block to the next!) -- or really to minimize
 "merge conflicts" -- I've made separate files for each race on my ballot.
 
-_Please go to the [main repository page and click on individual ballot items](https://github.com/swaldman/evolving-ballot-general-election-2020-11-03)
-for my tentative views. Educate me with pull requests on issues, and/or fork your own annotated ballot repo!_
+**_Please go to the [main repository page and click on individual ballot items](https://github.com/swaldman/evolving-ballot-general-election-2020-11-03)
+for my tentative views. Educate me with Pull Requests or Issues, and/or fork your own annotated ballot repo!_**
 
 This repo is incomplete.
 Anything in this repo can change and "evolve" until I've actually cast my ballot. Once I have, I'll note that in this `README`.
