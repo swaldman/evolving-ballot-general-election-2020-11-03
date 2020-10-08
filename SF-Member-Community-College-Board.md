@@ -5,15 +5,15 @@ _Choose up to four_
 - [ ] Dominic Ashe
 - [ ] Han Zou
 - [ ] Geramye Teeter
-- [ ] Tom Temprano
+- [x] Tom Temprano
 - [ ] Marie Hurabiell
 - [ ] Victor Olivieri
-- [ ] Anita Martinez
+- [x] Anita Martinez
 - [ ] Jeanette Quick
-- [ ] Aliya Chisti
+- [x] Aliya Chisti
 - [ ] Alan Wong
-- [ ] Shanell Williams
+- [x] Shanell Williams
 
 ---
 
-I am not yet informed or decided.
+For now I am following the [SF League of Pissed Off Voters' endorsements](https://www.theleaguesf.org/), though I may update this.
