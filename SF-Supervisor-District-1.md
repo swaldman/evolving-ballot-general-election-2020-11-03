@@ -46,7 +46,7 @@ she's the mainstream Democrat in the race, and absent countervailing information
 prefer candidates who seem more strongly social democratic than that.
 
 With Andrew N. Majalya and Amanda Innocencio, I just don't have a very strong sense of
-how to pigeonhole them, where he'd stand on matters of that are likely to be in contention,
+how to pigeonhole them, where they'd stand on matters of that are likely to be in contention,
 whether they'd reflect my views. Mostly the same with Veronica Shinzato, thogh I like
 her claim to independence.
 
