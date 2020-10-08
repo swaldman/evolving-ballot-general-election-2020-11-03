@@ -10,8 +10,6 @@ _Rank as many choices as you wish (Instant-Runoff election)_
 - Andrew N. Majalya
 - Amanda Inocencio
 
-
-
 ---
 
 Unfortunately, despite having lived seven years in the Richmond, I don't know very
