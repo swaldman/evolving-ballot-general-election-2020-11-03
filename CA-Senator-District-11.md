@@ -12,7 +12,7 @@ in the sense of enshrining a generous, universal benefits state and
 limiting economic inequality. Like many people with my priorities,
 I feel generally betrayed by and angry with the "center" of the
 Democratic Party, whose economics I perceive as neoliberal,
-corrupted by a plutocratic donor class, and the class interests
+corrupted by a plutocratic donor class and the class interests
 of the affluent part of professional/managerial class that
 largely comprises it.
 
