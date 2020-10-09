@@ -16,4 +16,5 @@ _Choose up to four_
 
 ---
 
-For now I am following the [SF League of Pissed Off Voters' endorsements](https://www.theleaguesf.org/), though I may update this.
+For now I am following the [SF League of Pissed Off Voters' endorsements](https://www.theleaguesf.org/), whose
+perspective is generally similar to mine. I may update this if I learn more.
