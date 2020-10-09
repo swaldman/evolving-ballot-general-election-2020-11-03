@@ -1,6 +1,6 @@
 # CA Senator, District 11
 
-- [ ] Scott Weiner
+- [ ] Scott Wiener
 - [ ] Jackie Fielder
 
 ---
