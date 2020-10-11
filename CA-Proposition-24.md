@@ -15,9 +15,10 @@ Entities that collect user data have, ethically, a fiduciary duty towards those 
 shirked and betrayed.
 
 Unless I'm persuaded of terrible side effects that I'm missing (and I would count disruption of a lot of existing
-platforms and business models as _good_ side effects), I'll probably vote in favor of this.
+platforms and business models as _good_ side effects), I'd be inclined to vote in favor of this. I am concerned by potential
+impacts on competition, is this the kind of proposal that will give well-capitalized incumbents a large advantage?
 
-I am heartened by thism, from a [piece arguing against the propostion](https://www.mercurynews.com/2020/08/15/editorial-prop-24-privacy/) (ht [Pat Signoret](https://twitter.com/patsignoret/status/1314613931575369728)):
+I am heartened by this, from a [piece arguing against the propostion](https://www.mercurynews.com/2020/08/15/editorial-prop-24-privacy/) (ht [Pat Signoret](https://twitter.com/patsignoret/status/1314613931575369728)):
 
 > It would allow the Legislature to approve an amendment with a simple majority vote — with this caveat: “The law should be amended, if necessary, to improve its operation, provided that the amendments do not compromise or weaken consumer privacy, while giving attention to the impact on business and innovation.”
 
