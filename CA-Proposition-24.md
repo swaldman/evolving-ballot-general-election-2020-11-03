@@ -39,3 +39,5 @@ But to be fair, I don't think any of the current round of data privacy laws unde
 
 
 
+
+

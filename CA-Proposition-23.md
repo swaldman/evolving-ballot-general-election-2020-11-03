@@ -13,7 +13,9 @@ I don't yet know.
 
 I don't understand the impetus here, or how to weigh the trade-offs.
 
-
+It seems like this is in response to significant shortcomings in dialysis provision. But why the hell do we have to
+regulate medical care by ballot propsotion? Isn't this exactly the kind of thing professionals at regulatory agencies
+should be charged with working out?
 
 
 
