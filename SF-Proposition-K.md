@@ -1,4 +1,4 @@
-# SF, Proposition J
+# SF, Proposition K
 
 Shall the City have the authority to own, develop, construct, acquire or rehabilitate up to 10,000 units of low-income rental housing in San Francisco?
 

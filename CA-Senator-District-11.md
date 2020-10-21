@@ -1,11 +1,11 @@
 # CA Senator, District 11
 
-- [ ] Scott Wiener
+- [x] Scott Wiener
 - [ ] Jackie Fielder
 
 ---
 
-This is proving to be the hardest decision on the ballot for me.
+This was the hardest decision on the ballot for me.
 
 I am a person whose core political priority is social democracy,
 in the sense of enshrining a generous, universal benefits state and
@@ -39,6 +39,6 @@ choice. But the way Wiener has conducted himself as a State Senator
 me pause, makes me wonder if he shouldn't be rewarded with my
 vote, despite his coalitional identity.
 
-
+(I remained torn throughout, but did vote for Wiener.)
 
 

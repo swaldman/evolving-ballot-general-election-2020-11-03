@@ -5,7 +5,7 @@ _Rank as many choices as you wish (Instant-Runoff election)_
 1. Connie Chan
 2. David E. Lee
 3. Sherman R. D'Sylva
-4. Marjan Philhour
+- Marjan Philhour
 - Veronica Shinzato
 - Andrew N. Majalya
 - Amanda Inocencio

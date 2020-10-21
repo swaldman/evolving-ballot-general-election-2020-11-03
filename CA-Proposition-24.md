@@ -36,7 +36,7 @@ I don't like the "pay for privacy" framework that the League of Women Voters [cl
 
 But to be fair, I don't think any of the current round of data privacy laws understand this point. The general flawed framework is looking to the balance between individuals' welfare and "innovation", which mostly misses the problem. Given that, is this better than the _status quo ante_?
 
-
+Ultimately I left this blank.
 
 
 

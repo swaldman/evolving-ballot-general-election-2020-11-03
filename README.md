@@ -22,6 +22,8 @@ for my tentative views._**
 This repo is incomplete.
 Anything in this repo can change and "evolve" until I've actually cast my ballot. Once I have, I'll note that in this `README`.
 
+**I have actually cast my ballot, so this repo is now mostly frozen.**
+
 My ballot is [San Francisco, Type 23](ballot-source/SF-Type-23-2020-11-03.pdf).
 
 ---

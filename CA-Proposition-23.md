@@ -17,6 +17,9 @@ It seems like this is in response to significant shortcomings in dialysis provis
 regulate medical care by ballot propsotion? Isn't this exactly the kind of thing professionals at regulatory agencies
 should be charged with working out?
 
+Ultimately I left this blank.
+
+
 
 
 

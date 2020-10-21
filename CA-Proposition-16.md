@@ -9,7 +9,7 @@ Permits government decision-making policies to consider race, sex, color, ethnic
 
 ---
 
-I am undecided on this proposition, and may skip it.
+I am undecided on this proposition, and may skip it. (I did skip it.)
 
 On the one hand, stratification of opportunity and outcome by "race, sex, color, ethnicity, or national origin" is an injustice and absolute catastrophe
 that we must remedy.
